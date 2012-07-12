@@ -3,4 +3,5 @@ bin
 obj
 
 # mstest test results
-TestResults
+TestResultsJapanSolver/bin
+JapanSolver/obj
